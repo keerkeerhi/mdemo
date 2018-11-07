@@ -20,7 +20,7 @@ import java.util.List;
 @RequestMapping("/book") // url:/模块/资源/{id}/细分 /seckill/list
 public class BookController {
 
-//	private Logger logger = LoggerFactory.getLogger(this.getClass());
+//	private Logger logger = LoggerFactory.getLogger(this.getClass());111
 
 	@Autowired
 	private BookService bookService;
